@@ -32,7 +32,7 @@ Building and Running
     
     mvn exec:java
     
-Note: 
+__Note__: 
     Apache Spark 1.6.2 is used internally in standalone mode to process the data and train linear regression model.
     
 For the prompt 'Download weather data from www.bom.gov.au (y/n)?', enter 'y' if you want to download weather data from www.bom.gov.au else it will use the data from the file system.
