@@ -20,20 +20,20 @@ Below are the predefined locations :
 Building and Running
 --------
 
-####Build command:
+#### Build command:
 
     mvn compile
     
-####Build with test
+#### Build with test
     
     mvn test
 
-####Running:
+#### Running:
     
     mvn exec:java
     
 Note: 
-    Apache spark 1.6.2 is used internally in standalone mode to process the data and train linear regression model.
+    Apache Spark 1.6.2 is used internally in standalone mode to process the data and train linear regression model.
     
 For the prompt 'Download weather data from www.bom.gov.au (y/n)?', enter 'y' if you want to download weather data from www.bom.gov.au else it will use the data from the file system.
 
@@ -51,7 +51,7 @@ The weather data is generated in below format:
     Brisbane|-27.47,153.03|2017-03-10T21:02Z|Sunny|19.47|910.3|66
 
 
-#####Schema of weather data downloaded from [www.bom.gov.au](http://www.bom.gov.au/) :
+##### Schema of weather data downloaded from [www.bom.gov.au](http://www.bom.gov.au/) :
 
 
     Index|Field Name                          | Required? 
@@ -81,30 +81,30 @@ The weather data is generated in below format:
     
 
 
-####Features used to build linear regression model :
+#### Features used to build linear regression model :
 1. month
 2. hour
 3. latitude
 4. longitude
 5. altitude
 
-####Temperature observations used to train the model : 
+#### Temperature observations used to train the model : 
 1. Minimum temperature (°C)          
 2. Maximum temperature (°C)  
 3. 9am Temperature (°C)    
 4. 3pm Temperature (°C)
 
-####Pressure observations used to train the model :
+#### Pressure observations used to train the model :
 1. 9am MSL pressure (hPa)
 2. 3pm MSL pressure (hPa)
 
-####Humidity observations used to train the model :
+#### Humidity observations used to train the model :
 1. 9am relative humidity (%) 
 2. 3pm relative humidity (%)  
 
 
 
-####TODO:
+#### TODO:
 
 
 1. Buid model to predict weather conditions(Sunny, Rainy, Snow) using observations such as sunshine hours, rainfall and cloud amount
