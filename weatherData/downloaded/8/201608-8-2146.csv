@@ -1,0 +1,40 @@
+"Daily Weather Observations for Wollongong, New South Wales for August 2016"
+"Prepared at 13:02 GMT on Saturday 12 August 2017   IDCJDW2146.201608"
+"Copyright 2003 Commonwealth Bureau of Meteorology"
+"Most observations from Bellambi, which is about 7 km north of the Wollongong city centre."
+"Some cloud observations are from automated equipment; these are somewhat different to those made by a human observer and may not appear every day.  Albion Park is about 25 km southwest of Bellambi (and 18 km from Wollongong), and the pressure there will sometimes be markedly different."
+"Temperature, humidity, wind, cloud and rainfall observations are from Bellambi AWS {station 068228}"
+"Pressure observations are from Albion Park (Wollongong Airport) {station 068241}"
+
+,"Date","Minimum temperature (°C)","Maximum temperature (°C)","Rainfall (mm)","Evaporation (mm)","Sunshine (hours)","Direction of maximum wind gust ","Speed of maximum wind gust (km/h)","Time of maximum wind gust","9am Temperature (°C)","9am relative humidity (%)","9am cloud amount (oktas)","9am wind direction","9am wind speed (km/h)","9am MSL pressure (hPa)","3pm Temperature (°C)","3pm relative humidity (%)","3pm cloud amount (oktas)","3pm wind direction","3pm wind speed (km/h)","3pm MSL pressure (hPa)"
+,2016-08-1,12.8,16.8,0,,,W,28,05:42,15.6,59,7,N,20,1016.6,16.1,62,7,NNE,9,1012.5
+,2016-08-2,12.8,14.1,0.2,,,SSW,48,10:02,13.7,66,8,SW,17,1014.2,10.1,89,8,SW,22,1015.2
+,2016-08-3,9.6,14.7,27.0,,,SSW,74,18:01,10.9,85,8,SW,26,1019.9,14.0,71,8,SSW,43,1019.4
+,2016-08-4,9.7,14.5,15.6,,,SSW,63,17:33,10.1,92,7,SW,28,1025.7,12.8,86,8,SSW,31,1026.2
+,2016-08-5,9.9,15.1,18.6,,,S,43,16:12,12.5,82,8,SW,20,1030.9,14.1,74,7,S,26,1028.6
+,2016-08-6,10.2,15.7,4.0,,,SSE,30,14:40,13.0,74,4,WSW,9,1028.8,14.8,70,8,S,17,1026.8
+,2016-08-7,10.3,16.2,0,,,SW,28,18:11,14.5,65,7,SSW,9,1027.4,15.6,60,8,S,15,1024.9
+,2016-08-8,9.0,17.6,0.2,,,NW,22,21:53,14.3,64,,SW,9,1025.9,17.0,52,4,ENE,6,1022.8
+,2016-08-9,11.1,19.1,0,,,NNW,50,22:06,15.6,57,6,NW,13,1022.1,18.2,59,8,NNE,20,1016.6
+,2016-08-10,14.6,24.7,0,,,N,46,09:48,16.2,57,5,NW,15,1014.3,24.0,37,7,NNW,19,1010.7
+,2016-08-11,10.6,18.7,0,,,WNW,56,09:01,14.2,50,,WNW,30,1016.8,18.0,28,,W,22,1016.9
+,2016-08-12,7.1,18.2,0,,,W,54,22:49,13.6,53,,NW,11,1023.5,17.7,35,1,N,20,1018.8
+,2016-08-13,10.7,20.1,0,,,W,44,04:03,15.1,44,,WSW,20,1022.1,18.3,33,3,WSW,20,1019.6
+,2016-08-14,12.3,17.6,0,,,WSW,39,02:43,15.8,44,,SW,13,1027.7,17.3,50,,SE,11,1027.0
+,2016-08-15,10.5,20.2,0,,,NNE,39,16:40,16.0,61,,NNW,19,1032.1,18.4,64,,NE,28,1028.9
+,2016-08-16,13.6,21.0,0,,,NE,39,13:56,17.1,62,,N,15,1030.1,18.8,73,,NE,31,1024.7
+,2016-08-17,13.0,22.8,0,,,N,35,06:57,17.9,50,,ESE,13,1025.3,19.1,71,8,NNE,11,1021.6
+,2016-08-18,13.5,20.4,0,,,N,37,21:32,18.3,45,,NW,4,1023.7,20.2,62,,NE,7,1020.2
+,2016-08-19,13.8,22.3,0,,,WSW,70,23:10,18.4,47,,NE,11,1018.9,21.3,41,6,N,33,1011.8
+,2016-08-20,10.0,16.7,0,,,NW,59,16:59,13.7,47,,W,28,1015.1,15.3,39,5,WSW,22,1013.8
+,2016-08-21,10.0,19.5,0,,,W,39,05:29,14.2,50,,SW,20,1018.6,18.8,35,,W,15,1016.0
+,2016-08-22,10.5,17.0,0,,,NNW,50,15:04,14.4,56,2,WSW,7,1016.6,14.3,55,8,N,19,1013.6
+,2016-08-23,9.7,15.9,0.2,,,SSW,44,12:28,13.9,61,,SW,30,1013.0,14.8,62,7,S,28,1013.3
+,2016-08-24,11.0,13.4,3.0,,,SSE,52,17:46,12.0,84,8,SW,17,1014.1,11.7,92,8,SW,20,1009.1
+,2016-08-25,8.8,16.4,43.2,,,SW,41,09:14,11.7,61,8,SW,20,1010.7,14.4,60,3,SSE,24,1010.4
+,2016-08-26,7.8,15.6,0,,,SSW,50,00:08,12.0,54,,SW,24,1019.3,14.6,60,2,SSE,33,1017.9
+,2016-08-27,8.7,18.4,0,,,NW,48,23:29,13.4,48,,WNW,17,1022.7,17.2,45,,ENE,20,1019.5
+,2016-08-28,10.3,18.9,0,,,WSW,54,03:18,14.7,43,,WSW,20,1022.1,18.4,34,,SW,13,1020.6
+,2016-08-29,9.7,18.7,0,,,NNW,19,21:28,16.4,54,7, ,Calm,1026.9,17.8,55,7,ENE,9,1024.9
+,2016-08-30,13.7,19.2,0,,,NE,39,14:59,17.1,71,7,NNW,17,1026.3,18.0,76,6,NE,33,1021.9
+,2016-08-31,16.2,21.8,0,,,N,44,12:59,18.1,72,8,N,22,1017.7,21.4,55,8,NNW,17,1013.2
