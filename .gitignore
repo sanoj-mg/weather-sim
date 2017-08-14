@@ -9,7 +9,6 @@
 .project
 /.settings/
 .worksheet
-*.txt
 .cache-tests
 .idea
 .DS_Store
